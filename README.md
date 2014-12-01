@@ -3,7 +3,7 @@ AquaPi
 
 <b>2014 Class project</b>
 
-![](https://raw.githubusercontent.com/electrodynatronic/AquaPi/master/images/Front.jpg)
+![](https://raw.githubusercontent.com/electrodynatronic/AquaPi/master/images/Front-cropped.jpg)
 
 Aquapi is a RaspberryPi controlled aquaponics system that is aimed to be self suficient and self maintaining, with little interaction from a person. Still in it's infancy, it shows great aptitude to be much more.
 
