@@ -12,7 +12,7 @@ It as been designed and envisioned as a class project by the 2014 graduating cla
 
 Useful links below ↓ ↓ ↓ ↓
 
-1. AquaPi [Server] (http://tesla.wcjc.edu:2001)
+1. AquaPi [Server] (http://tesla.wcjc.edu:1880)
 2. AquaPi [Wiki](https://github.com/electrodynatronic/AquaPi/wiki)
 3. Difference between [Aquaponics and Hydroponics] (http://www.doityourself.com/stry/the-difference-between-hydroponics-and-aquaponics)
 4. 
